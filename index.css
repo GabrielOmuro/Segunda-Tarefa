@@ -1,0 +1,146 @@
+h1{
+    color: rgb(1, 175, 175);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 200px;
+    margin-top: 50px;
+}
+
+#video{
+    color: rgb(1, 175, 175);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    position: fixed;
+    transition: 0.7s;
+    display: flex;
+    margin-top: none;
+    bottom: 20px;
+}
+
+#inicio{
+    color: rgb(1, 175, 175);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    position: fixed;
+    transition: 0.7s;
+    display: flex;
+    margin-left: 505px;
+    bottom: 20px;
+}
+
+#Video{
+    border: 3px solid aqua;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+}
+
+.linkedin,
+.github{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(1, 175, 175);
+    font-size: 20px;
+    margin-bottom: 100px;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+img{
+    border-radius: 10px;
+    border: 10px solid rgb(1, 175, 175);
+    height: 300px;
+    width: 300px;
+}
+
+footer{
+    background-color: aqua;
+    padding: 100px;
+    margin-top: 50px;
+}
+
+.imagem img{
+	height: 25%;
+	width: 25%;
+	margin: auto;
+    display: block;
+    border-color: rgb(1, 175, 175);
+}
+#informacao{
+    color: rgb(1, 175, 175);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    position: fixed;
+    transition: 0.7s;
+    display: flex;
+    margin-left: 130px;
+    margin-top: none;
+    bottom: 20px;
+}
+
+header{
+    text-align: center;
+}
+
+p{
+    color: rgb(1, 175, 175);
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foto{
+    border: none;
+    height: 50%;
+	width: 50%;
+    margin: auto;
+    display: block;
+}
+
+.p{
+    color: rgb(1, 175, 175);
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: gray;
+}
+
+#p{
+    color: rgb(1, 175, 175);
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#pagina{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 10px;
+    transition: 0.7s;
+}
+
+.container{
+    display: flex;
+    width: 70%;
+    margin: 200px;
+}
